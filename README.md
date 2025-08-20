@@ -44,34 +44,31 @@ Occasion filter
 
 🛠 Tools & Skills Used
 
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Slicers & Timelines for interactivity
-
-Data Cleaning & Transformation
+ Microsoft Excel
+ Pivot Tables & Pivot Charts
+ Slicers & Timelines for interactivity
+ Data Cleaning & Transformation
 
 KPI indicators
 
 Skills
 
-Data Analysis
+ Data Analysis
 
-Dashboard Design
+ Dashboard Design
 
-Business Intelligence (BI) concepts
+ Business Intelligence (BI) concepts
 
-Visualization & Storytelling with Data
+ Visualization & Storytelling with Data
 
 📈 Insights
 
-Anniversary and Holi occasions generate the highest revenue.
+ Anniversary and Holi occasions generate the highest revenue.
+ 
+ Colors category is the top-performing product group.
 
-Colors category is the top-performing product group.
+ Magman Set and Quia Gift are the highest revenue-generating products.
 
-Magman Set and Quia Gift are the highest revenue-generating products.
+ Peak sales hours are between 6 PM – 9 PM.
 
-Peak sales hours are between 6 PM – 9 PM.
-
-September and March are strong sales months.
+ September and March are strong sales months.
